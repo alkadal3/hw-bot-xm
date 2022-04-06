@@ -107,9 +107,9 @@ memberwin = 1 // Win ( HW MODS WA )
 memberlose = 1 // Lose ( HW MODS WA )
 pref = '?' // Prefix ( HW MODS WA )
 fake1 = '©[XM]-[XHIRO MHONSHINE] ✌️'
-targetpc = '6285714170944' // Fitnah Target ( HAIKAL )
-owner = '6285714170944' // Numbers Owner ( HW MODS WA )
-ownerNumbers = ["6285714170944@s.whatsapp.net","6285714170944@s.whatsapp.net","6285714170944@s.whatsapp.net"]
+targetpc = '6285349736408' // Fitnah Target ( HAIKAL )
+owner = '6285349736408' // Numbers Owner ( HW MODS WA )
+ownerNumbers = ["6285349736408@s.whatsapp.net","6285349736408@s.whatsapp.net","6285349736408@s.whatsapp.net"]
 linkcom = ".com" // Anti Link ( HW MODS WA )
 linkid = ".id" // Anti Link ( HW MODS WA )
 linkxyz = ".xyz" // Anti Link ( HW MODS WA )
@@ -118,7 +118,7 @@ linkhttp = "http" // Anti Link ( HW MODS WA )
 linkwa = "://chat.whatsapp.com" // Anti Link Group Whatsapp ( HW MODS WA )
 deflt = "..........c.....com" // Default Link ( HW MODS WA )
 linknye = `${deflt}` // Anti Link ( HW MODS WA )
-fake = 'HW MODS WA' // Fake Text Reply / Name Bot ( HW MODS WA )
+fake = 'RAEHAN GANTENG' // Fake Text Reply / Name Bot ( HW MODS WA )
 a = '```' // Font Whatsapp ( HW MODS WA )
 bailver = '3.5.3' // Versi Baileys ( HW MODS WA )
 botver = '1.0.0' // Versi Bot ( HW MODS WA )
@@ -334,12 +334,12 @@ const mess = {
         }
 //=================================================// 
         const bct = (teks) => {
-            Haikal.sendMessage(from, teks, text, {quoted:kal, contextInfo:{"externalAdReply":{"title": fake,"body": `Sc Ori Hw Mods`,"previewType": "PHOTO","thumbnailUrl": `https://cdn.pixabay.com/photo/2021/10/14/15/42/15-42-34-820_640.jpg`,"thumbnail": Mthumb,"sourceUrl": `https://youtube.com/c/HwModsWa857`}}})
+            Haikal.sendMessage(from, teks, text, {quoted:kal, contextInfo:{"externalAdReply":{"title": fake,"body": `Sc Ori Hw Mods`,"previewType": "PHOTO","thumbnailUrl": `https://cdn.pixabay.com/photo/2021/10/14/15/42/15-42-34-820_640.jpg`,"thumbnail": Mthumb,"sourceUrl": `https://Instagram.com/raehan1986`}}})
         }
 //=================================================//        
         function _0x45c5(){const _0x5162cc=['21463629RaVwPb','sendMessage','187184AxxzzX','21ZNOyIH','638SNzHNY','4390590EGLNXC','readFileSync','PHOTO','16pWfEps','https://cdn.pixabay.com/photo/2021/07/21/14/42/indonesian-6483193_640.jpg','114255VecIGB','https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g/','916992WJIgbM','1103015GTHgWu','3791bUJYVa','30LHcwgo'];_0x45c5=function(){return _0x5162cc;};return _0x45c5();}(function(_0x5de27d,_0x2e81a2){const _0x20e84a=_0x3a8a,_0x5b3658=_0x5de27d();while(!![]){try{const _0x58fe9f=-parseInt(_0x20e84a(0x172))/0x1*(-parseInt(_0x20e84a(0x168))/0x2)+parseInt(_0x20e84a(0x170))/0x3*(parseInt(_0x20e84a(0x16c))/0x4)+-parseInt(_0x20e84a(0x171))/0x5+parseInt(_0x20e84a(0x169))/0x6+parseInt(_0x20e84a(0x167))/0x7*(-parseInt(_0x20e84a(0x166))/0x8)+-parseInt(_0x20e84a(0x16e))/0x9*(parseInt(_0x20e84a(0x163))/0xa)+-parseInt(_0x20e84a(0x164))/0xb;if(_0x58fe9f===_0x2e81a2)break;else _0x5b3658['push'](_0x5b3658['shift']());}catch(_0x383463){_0x5b3658['push'](_0x5b3658['shift']());}}}(_0x45c5,0xd7bad));function _0x3a8a(_0x4d95af,_0x3bf738){const _0x45c5dd=_0x45c5();return _0x3a8a=function(_0x3a8ae9,_0x3a0156){_0x3a8ae9=_0x3a8ae9-0x163;let _0x491d72=_0x45c5dd[_0x3a8ae9];return _0x491d72;},_0x3a8a(_0x4d95af,_0x3bf738);}const kalkal=_0x260934=>{const _0x3b5cf1=_0x3a8a;Haikal[_0x3b5cf1(0x165)](from,_0x260934,text,{'quoted':kal,'contextInfo':{'externalAdReply':{'title':fake,'body':''+ngazap(prefix),'previewType':_0x3b5cf1(0x16b),'thumbnailUrl':_0x3b5cf1(0x16d),'thumbnail':fs[_0x3b5cf1(0x16a)]('./stik/Ahhikal.jpeg'),'sourceUrl':_0x3b5cf1(0x16f)}}});};
 //=================================================//        
-        function _0x4759(_0x1321b5,_0x377c89){const _0x170624=_0x1706();return _0x4759=function(_0x475936,_0x364149){_0x475936=_0x475936-0x10b;let _0x3bbc84=_0x170624[_0x475936];return _0x3bbc84;},_0x4759(_0x1321b5,_0x377c89);}(function(_0x139619,_0x21de0c){const _0x4d2f91=_0x4759,_0x2fa32f=_0x139619();while(!![]){try{const _0x27f534=-parseInt(_0x4d2f91(0x118))/0x1+parseInt(_0x4d2f91(0x10c))/0x2+-parseInt(_0x4d2f91(0x11a))/0x3*(parseInt(_0x4d2f91(0x114))/0x4)+parseInt(_0x4d2f91(0x10d))/0x5*(-parseInt(_0x4d2f91(0x113))/0x6)+parseInt(_0x4d2f91(0x10f))/0x7*(-parseInt(_0x4d2f91(0x119))/0x8)+parseInt(_0x4d2f91(0x116))/0x9+parseInt(_0x4d2f91(0x117))/0xa;if(_0x27f534===_0x21de0c)break;else _0x2fa32f['push'](_0x2fa32f['shift']());}catch(_0x39ca2d){_0x2fa32f['push'](_0x2fa32f['shift']());}}}(_0x1706,0x3bf7e));const freply=_0x45010e=>{const _0x1dd552=_0x4759;Haikal[_0x1dd552(0x10b)](from,_0x45010e,text,{'quoted':kal,'contextInfo':{'externalAdReply':{'title':fake,'body':_0x1dd552(0x10e),'previewType':'PHOTO','thumbnailUrl':_0x1dd552(0x115),'thumbnail':fs[_0x1dd552(0x111)](_0x1dd552(0x110)),'sourceUrl':_0x1dd552(0x11b)}}});},kalot=_0x1fd17f=>{const _0x34bd9c=_0x4759;Haikal['sendMessage'](from,_0x1fd17f,text,{'quoted':kal,'contextInfo':{'externalAdReply':{'title':fake,'body':_0x34bd9c(0x112)+virtext,'previewType':'PHOTO','thumbnailUrl':_0x34bd9c(0x115),'thumbnail':fs[_0x34bd9c(0x111)]('./stik/Ahhikal.jpeg'),'sourceUrl':'https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g/'}}});};function _0x1706(){const _0x3bb27c=['HW\x20MODS\x20WA','325224HGXRZo','24XSbpmC','https://cdn.pixabay.com/photo/2021/07/21/14/42/indonesian-6483193_640.jpg','481149HvCNDl','16212390kieEEc','455554qEUlKS','125128SnMOKO','227235jZLnEG','https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g/','sendMessage','54620TRGCbh','10RGPCbK','Subscribe\x20HW\x20MODS\x20WA','196KCOtHj','./stik/Ahhikal.jpeg','readFileSync'];_0x1706=function(){return _0x3bb27c;};return _0x1706();}
+        function _0x4759(_0x1321b5,_0x377c89){const _0x170624=_0x1706();return _0x4759=function(_0x475936,_0x364149){_0x475936=_0x475936-0x10b;let _0x3bbc84=_0x170624[_0x475936];return _0x3bbc84;},_0x4759(_0x1321b5,_0x377c89);}(function(_0x139619,_0x21de0c){const _0x4d2f91=_0x4759,_0x2fa32f=_0x139619();while(!![]){try{const _0x27f534=-parseInt(_0x4d2f91(0x118))/0x1+parseInt(_0x4d2f91(0x10c))/0x2+-parseInt(_0x4d2f91(0x11a))/0x3*(parseInt(_0x4d2f91(0x114))/0x4)+parseInt(_0x4d2f91(0x10d))/0x5*(-parseInt(_0x4d2f91(0x113))/0x6)+parseInt(_0x4d2f91(0x10f))/0x7*(-parseInt(_0x4d2f91(0x119))/0x8)+parseInt(_0x4d2f91(0x116))/0x9+parseInt(_0x4d2f91(0x117))/0xa;if(_0x27f534===_0x21de0c)break;else _0x2fa32f['push'](_0x2fa32f['shift']());}catch(_0x39ca2d){_0x2fa32f['push'](_0x2fa32f['shift']());}}}(_0x1706,0x3bf7e));const freply=_0x45010e=>{const _0x1dd552=_0x4759;Haikal[_0x1dd552(0x10b)](from,_0x45010e,text,{'quoted':kal,'contextInfo':{'externalAdReply':{'title':fake,'body':_0x1dd552(0x10e),'previewType':'PHOTO','thumbnailUrl':_0x1dd552(0x115),'thumbnail':fs[_0x1dd552(0x111)](_0x1dd552(0x110)),'sourceUrl':_0x1dd552(0x11b)}}});},kalot=_0x1fd17f=>{const _0x34bd9c=_0x4759;Haikal['sendMessage'](from,_0x1fd17f,text,{'quoted':kal,'contextInfo':{'externalAdReply':{'title':fake,'body':_0x34bd9c(0x112)+virtext,'previewType':'PHOTO','thumbnailUrl':_0x34bd9c(0x115),'thumbnail':fs[_0x34bd9c(0x111)]('./stik/Ahhikal.jpeg'),'sourceUrl':'https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg'}}});};function _0x1706(){const _0x3bb27c=['HW\x20MODS\x20WA','325224HGXRZo','24XSbpmC','https://cdn.pixabay.com/photo/2021/07/21/14/42/indonesian-6483193_640.jpg','481149HvCNDl','16212390kieEEc','455554qEUlKS','125128SnMOKO','227235jZLnEG','https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g/','sendMessage','54620TRGCbh','10RGPCbK','Subscribe\x20HW\x20MODS\x20WA','196KCOtHj','./stik/Ahhikal.jpeg','readFileSync'];_0x1706=function(){return _0x3bb27c;};return _0x1706();}
 //=================================================//
         const sendMess = (hehe, teks) => {
             Haikal.sendMessage(hehe, teks, text)
@@ -442,11 +442,11 @@ Haikal.sendMessage(from,teks,image,{mimetype: Mimetype.fekekal,quoted : ikal, th
 // Fake Link ( HW MODS WA )
 const flink = {
 "title": fake,
-"body": `Subscribe HW MODS WA`,
+"body": `Subscribe XIN 7`,
 "previewType": "PHOTO",
 "thumbnailUrl": `https://cdn.pixabay.com/photo/2021/07/21/14/42/indonesian-6483193_640.jpg`,
 "thumbnail": Mthumb,
-"sourceUrl": `https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g`
+"sourceUrl": `https://Instagram.com/raehan1986`
 }
 //=================================================//
 // Dari docs baileys ( HW MODS WA )
@@ -572,7 +572,7 @@ res = await Haikal.prepareMessageFromContent(from,{
 ▬▭▬▭▬▭▬▭▬▬▭▬▭
 HELLO !!!
 ┏━━⊱
-┣❏🔥➥ WELCOME BOT HW : https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g"
+┣❏🔥➥ WELCOME BOT HW : https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg"
 ┗━━⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭`,
 "buttonText": "List Menu",
@@ -653,107 +653,107 @@ var _0x59ba30=_0x43bd;function _0x2053(){var _0x40b8d1=['musik24','musik23','mus
 
 //AutoVn
 
-if (budy.startsWith('Assalamualaikum')){
+if (budy.startsWith('%%%%%%%%%')){
 if (isBan) return reply(mess.ban)
 const assalamualaikum = fs.readFileSync('media/assalamualaikum.mp3')
                     Haikal.sendMessage(from, assalamualaikum, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('Bang')){
+                    if (budy.startsWith('%%%%%%%%')){
 if (isBan) return reply(mess.ban)
 const ahcok = fs.readFileSync('media/ahcok.mp3')
                     Haikal.sendMessage(from, ahcok, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('Bot')){
+                    if (budy.startsWith('%%%%%%%')){
 if (isBan) return reply(mess.ban)
 const ikehcok = fs.readFileSync('media/ikehcok.mp3')
                     Haikal.sendMessage(from, ikehcok, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-if (budy.startsWith('Hore')){
+if (budy.startsWith('%%%%%%')){
 if (isBan) return reply(mess.ban)
 const keren = fs.readFileSync('media/keren.mp3')
                     Haikal.sendMessage(from, keren, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-if (budy.startsWith('BENAR')){
+if (budy.startsWith('%%%%%%%')){
 if (isBan) return reply(mess.ban)
 const keren = fs.readFileSync('media/keren.mp3')
                     Haikal.sendMessage(from, keren, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-    if (budy.startsWith('Apa')){
+    if (budy.startsWith('%%%%%%')){
     if (isBan) return reply(mess.ban)
 const apa = fs.readFileSync('media/apa.mp3')
                     Haikal.sendMessage(from, apa, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('Apaan')){
+                    if (budy.startsWith('%%%%%')){
                     if (isBan) return reply(mess.ban)
 const apaan = fs.readFileSync('media/apaan.mp3')
                     Haikal.sendMessage(from, apaan, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }                   
-                    if (budy.startsWith('Hantam')){
+                    if (budy.startsWith('%%%%')){
                     if (isBan) return reply(mess.ban)
 const hantam = fs.readFileSync('media/hantam.mp3')
                     Haikal.sendMessage(from, hantam, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('Hapus')){
+                    if (budy.startsWith('%%%%%')){
                     if (isBan) return reply(mess.ban)
 const hapus = fs.readFileSync('media/hapus.mp3')
                     Haikal.sendMessage(from, hapus, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('Asw')){
+                    if (budy.startsWith('%%%%%')){
                     if (isBan) return reply(mess.ban)
 const asw = fs.readFileSync('media/asw.mp3')
                     Haikal.sendMessage(from, asw, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('Kasian')){
+                    if (budy.startsWith('%%%%%')){
                     if (isBan) return reply(mess.ban)
 const kasian = fs.readFileSync('media/kasian.mp3')
                     Haikal.sendMessage(from, kasian, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('Keren')){
+                    if (budy.startsWith('%%%%%')){
                     if (isBan) return reply(mess.ban)
 const keren = fs.readFileSync('media/keren.mp3')
                     Haikal.sendMessage(from, keren, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('Kesel')){
+                    if (budy.startsWith('%%%%%')){
                     if (isBan) return reply(mess.ban)
 const kesel = fs.readFileSync('media/kesel.mp3')
                     Haikal.sendMessage(from, kesel, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('Ketawa')){
+                    if (budy.startsWith('%%%%%%')){
                     if (isBan) return reply(mess.ban)
 const ketawa = fs.readFileSync('media/ketawa.mp3')
                     Haikal.sendMessage(from, ketawa, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('Loli')){
+                    if (budy.startsWith('%%%%%%')){
                     if (isBan) return reply(mess.ban)
 const loli = fs.readFileSync('media/loli.mp3')
                     Haikal.sendMessage(from, loli, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('Mastah')){
+                    if (budy.startsWith('%%%%%')){
                     if (isBan) return reply(mess.ban)
 const mastah = fs.readFileSync('media/mastah.mp3')
                     Haikal.sendMessage(from, mastah, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('Ngeselin')){
+                    if (budy.startsWith('%%%%%')){
                     if (isBan) return reply(mess.ban)
 const ngeselin = fs.readFileSync('media/ngeselin.mp3')
                     Haikal.sendMessage(from, ngeselin, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('Nob')){
+                    if (budy.startsWith('%%%%')){
                     if (isBan) return reply(mess.ban)
 const nob = fs.readFileSync('media/nob.mp3')
                     Haikal.sendMessage(from, nob, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('Awkwk')){
+                    if (budy.startsWith('%%%%')){
                     if (isBan) return reply(mess.ban)
 const awkwk = fs.readFileSync('media/awkwk.mp3')
                     Haikal.sendMessage(from, awkwk, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('Nub')){
+                    if (budy.startsWith('%%%%%')){
                     if (isBan) return reply(mess.ban)
 const nub = fs.readFileSync('media/nub.mp3')
                     Haikal.sendMessage(from, nub, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('Sedih')){
+                    if (budy.startsWith('%%%%%i')){
                     if (isBan) return reply(mess.ban)
 const sedih = fs.readFileSync('media/sedih.mp3')
                     Haikal.sendMessage(from, sedih, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
@@ -1088,7 +1088,7 @@ case 'Lanjut':
               break     
 case 'SCBOT':
 offline = false
-bct(' https://youtube.com/c/HwModsWa857')
+bct(' https://Instagram.com/raehan1986')
 break
 case 'OWNER':
 if (isBan) return reply(mess.ban)
@@ -1125,19 +1125,19 @@ Hai ${pushname}
 HELLO !!!
 ┏━━⊱
 ┣❏ NOMOR OWNER :
-┣❏ Wa.me/6285714170944
+┣❏ Wa.me/6285349736408
 ┗━━⊱
 ┏━━⊱
 ┣❏ INSTAGRAM :
-┣❏ https://www.instagram.com/hikal_857/?hl=id
+┣❏ https://Instagram.com/raehan1986
 ┗━━⊱
 ┏━━⊱
 ┣❏ YOUTUBE :
-┣❏ https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g
+┣❏ https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg
 ┗━━⊱
 ┏━━⊱
 ┣❏ TELEGRAM :
-┣❏ https://t.me/haikal857
+┣❏ https://t.me/raehan 1986
 ┗━━⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭`,
 						"footerText": "❏HW MODS WA❏",
@@ -1150,9 +1150,9 @@ HELLO !!!
 ▬▭▬▭▬▭▬▭▬▬▭▬▭						
 WELCOME TO BOT HW ✓
 - DONASI -
-DANA : 6285714170944
-SAWERIA : https://saweria.co/hwmodswa
-PULSA : wa.me/6285714170944
+DANA : 6285349736408
+SAWERIA : https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg
+PULSA : wa.me/6285349736408
 
 - THANKS AND SUPPORT -
 
@@ -1377,19 +1377,19 @@ Hai ${pushname}
 HELLO !!!
 ┏━━⊱
 ┣❏ NOMOR OWNER :
-┣❏ Wa.me/6285714170944
+┣❏ Wa.me/6285349736408
 ┗━━⊱
 ┏━━⊱
 ┣❏ INSTAGRAM :
-┣❏ https://www.instagram.com/hikal_857/?hl=id
+┣❏ https://Instagram.com/raehan1986
 ┗━━⊱
 ┏━━⊱
 ┣❏ YOUTUBE :
-┣❏ https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g
+┣❏ https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg
 ┗━━⊱
 ┏━━⊱
 ┣❏ TELEGRAM :
-┣❏ https://t.me/haikal857
+┣❏ https://t.me/raehan1986
 ┗━━⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭`,
 						"footerText": "❏HW MODS WA❏",
@@ -1402,9 +1402,9 @@ HELLO !!!
 ▬▭▬▭▬▭▬▭▬▬▭▬▭						
 WELCOME TO BOT HW ✓
 - DONASI -
-DANA : 6285714170944
-SAWERIA : https://saweria.co/hwmodswa
-PULSA : wa.me/6285714170944
+DANA : 6285349736408
+SAWERIA : https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg
+PULSA : wa.me/6285349736408
 
 - THANKS AND SUPPORT -
 
@@ -1572,9 +1572,9 @@ HELLO !!!
 ▬▭▬▭▬▭▬▭▬▬▭▬▭						
 WELCOME TO BOT HW ✓
 - DONASI -
-DANA : 6285714170944
-SAWERIA : https://saweria.co/hwmodswa
-PULSA : wa.me/6285714170944
+DANA : 6285349736408
+SAWERIA : https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg
+PULSA : wa.me/6285349736408
 
 - THANKS YOU BOT -
 ▬▭▬▭▬▭▬▭▬▬▭▬▭`,
@@ -1728,9 +1728,9 @@ HELLO !!!
 ▬▭▬▭▬▭▬▭▬▬▭▬▭						
 WELCOME TO BOT HW ✓
 - DONASI -
-DANA : 6285714170944
-SAWERIA : https://saweria.co/hwmodswa
-PULSA : wa.me/6285714170944
+DANA : 6285349736408
+SAWERIA : https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg
+PULSA : wa.me/6285349736408
 
 - THANKS YOU BOT -
 ▬▭▬▭▬▭▬▭▬▬▭▬▭`,
@@ -1828,9 +1828,9 @@ Hai ${pushname}
 ▬▭▬▭▬▭▬▭▬▬▭▬▭						
 WELCOME TO BOT HW ✓
 - DONASI -
-DANA : 6285714170944
-SAWERIA : https://saweria.co/hwmodswa
-PULSA : wa.me/6285714170944
+DANA : 6285349736408
+SAWERIA : https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg
+PULSA : wa.me/6285349736408
 
 - THANKS YOU BOT -
 ▬▭▬▭▬▭▬▭▬▬▭▬▭`,
