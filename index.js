@@ -3003,7 +3003,7 @@ case 'Lanjut':
 //=================================================//               
 case 'SCBOT':
 offline = false
-bct(' https://youtube.com/c/HwModsWa857')
+bct(' https://Instagram.com/raehan1986')
 break
                    case 'CANTIK':  
                    if (isBan) return reply(mess.ban)
@@ -3169,19 +3169,19 @@ Hai ${pushname}
 HELLO !!!
 ┏━━⊱
 ┣❏ NOMOR OWNER :
-┣❏ Wa.me/6285714170944
+┣❏ Wa.me/6285349736408
 ┗━━⊱
 ┏━━⊱
 ┣❏ INSTAGRAM :
-┣❏ https://www.instagram.com/hikal_857/?hl=id
+┣❏ https://Instagram.com/raehan1986
 ┗━━⊱
 ┏━━⊱
 ┣❏ YOUTUBE :
-┣❏ https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g
+┣❏ https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg
 ┗━━⊱
 ┏━━⊱
 ┣❏ TELEGRAM :
-┣❏ https://t.me/haikal857
+┣❏ https://t.me/raehan1986
 ┗━━⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭`,
 						"footerText": "❏HW MODS WA❏",
@@ -3194,9 +3194,9 @@ HELLO !!!
 ▬▭▬▭▬▭▬▭▬▬▭▬▭						
 WELCOME TO BOT HW ✓
 - DONASI -
-DANA : 6285714170944
-SAWERIA : https://saweria.co/hwmodswa
-PULSA : wa.me/6285714170944
+DANA : 6285349736408
+SAWERIA : https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg
+PULSA : wa.me/6285349736408
 
 - THANKS AND SUPPORT -
 
@@ -3364,9 +3364,9 @@ HELLO !!!
 ▬▭▬▭▬▭▬▭▬▬▭▬▭						
 WELCOME TO BOT HW ✓
 - DONASI -
-DANA : 6285714170944
-SAWERIA : https://saweria.co/hwmodswa
-PULSA : wa.me/6285714170944
+DANA : 6285349736408
+SAWERIA : https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg
+PULSA : wa.me/6285349736408
 
 - THANKS YOU BOT -
 ▬▭▬▭▬▭▬▭▬▬▭▬▭`,
@@ -3434,9 +3434,9 @@ HELLO !!!
 ▬▭▬▭▬▭▬▭▬▬▭▬▭						
 WELCOME TO BOT HW ✓
 - DONASI -
-DANA : 6285714170944
-SAWERIA : https://saweria.co/hwmodswa
-PULSA : wa.me/6285714170944
+DANA : 6285349736408
+SAWERIA : https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg
+PULSA : wa.me/6285349736408
 
 - THANKS YOU BOT -
 ▬▭▬▭▬▭▬▭▬▬▭▬▭`,
@@ -3534,9 +3534,9 @@ Hai ${pushname}
 ▬▭▬▭▬▭▬▭▬▬▭▬▭						
 WELCOME TO BOT HW ✓
 - DONASI -
-DANA : 6285714170944
-SAWERIA : https://saweria.co/hwmodswa
-PULSA : wa.me/6285714170944
+DANA : 6285349736408
+SAWERIA : https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg
+PULSA : wa.me/6285349736408
 
 - THANKS YOU BOT -
 ▬▭▬▭▬▭▬▭▬▬▭▬▭`,
@@ -6358,7 +6358,7 @@ kalkal(' ``ANDA TELAH ONLINE``` ')
 break
 case 'sc':
 offline = false
-bct(' https://youtube.com/c/HwModsWa857')
+bct(' https://Instagram.com/raehan1986')
 break
 // Status Bot ( HW MODS WA )
 case 'status':
