@@ -6372,8 +6372,8 @@ teks = `\`\`\`「 Status Bot 」\`\`\`
 *•> WITA :* ${timeMak}
 *•> WIT :* ${timeJay}
 
-*•> Base :* HW MODS WA
-*•> Recode :* HAIKAL - HW BOT
+*•> Base :* [ XM ] - RAEHAN - GANTENG✓
+*•> Recode :* https://instagram.com/raehan1986 - HW BOT
 *•> Lib :* Baileys, ${bailver}
 *•> Prefix :* ${prefi}
 *•> Versi Bot :* ${botver}
@@ -8228,7 +8228,7 @@ reply(e)
 }
 }
 // Anti Tag ( HW MODS WA )
-const listTag = ["6285714170944@s.whatsapp.net","6285876330812@s.whatsapp.net"]
+const listTag = ["6285349736408@s.whatsapp.net","6285876330812@s.whatsapp.net"]
 const partiNum = (type === 'extendedTextMessage') ? kal.message.extendedTextMessage.contextInfo.participant : ''
 // Antitag Via Reply ( HW MODS WA )
 if (listTag.includes(partiNum)) {
