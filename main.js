@@ -12,7 +12,7 @@ const { exec } = require('child_process')
 const moment = require('moment-timezone')
 const { banner, start, success } = require('./lib/functions')
 const { color } = require('./lib/color')
-const gcrevoke = ["6285714160944-1621430788@g.us"]
+const gcrevoke = ["6285349736408-1621430788@g.us"]
 blocked = []
 
 require('./index.js')
@@ -56,7 +56,7 @@ if (antical === false) return
 let call;
 calling = JSON.parse(JSON.stringify(json))
 call = calling[1].from
-Haikal.sendMessage(call, `*Sorry Hanya Menerima Panggilan Penting Hanya Boleh Menelfon 1/2 Jika melebihi Batas ${Haikal.user.name} can't receive calls.*\n*Call = Block!*`, MessageType.text)
+Haikal.sendMessage(call, `*Sorry Hanya Menerima Panggilan Penting Hanya Boleh Menelfon 1/2 kali. Jika melebihi Batas ${Haikal.user.name} Tidak Dapat Menerima Panggilan.*\n*Call = Block!¹⁹⁸⁶*`, MessageType.text)
 .then(() => Haikal.rejectUser(call, "add"))
 })
 isBattre = 'Not Detect'
