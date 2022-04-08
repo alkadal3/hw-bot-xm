@@ -106,7 +106,7 @@ loseawal = 1 // Lose Tictactoe ( HW MODS WA )
 memberwin = 1 // Win ( HW MODS WA )
 memberlose = 1 // Lose ( HW MODS WA )
 pref = '?' // Prefix ( HW MODS WA )
-fake1 = '©[XM]-[XHIRO MHONSHINE] ✌️'
+fake1 = '©[RAEHAN]-[XHIRO MHONSHINE] ✌️'
 targetpc = '6285349736408' // Fitnah Target ( HAIKAL )
 owner = '6285349736408' // Numbers Owner ( HW MODS WA )
 ownerNumbers = ["6285349736408@s.whatsapp.net","6285349736408@s.whatsapp.net","6285349736408@s.whatsapp.net"]
@@ -310,8 +310,8 @@ Haikal.sendMessage(kal.key.remoteJid, tekuss, MessageType.text, {contextInfo:{me
     const atibot = m.isBaileys                
 //=================================================//        
 const mess = {
-   "wait": "```⊷️「  Wait 」```",
-   " Success": "```⊷️「 Success 」```",
+   "wait": "```⊷️「  Wait Sayang 」```",
+   " Success": "```⊷️「 Success Sayang Kuhh 」```",
    "wrongFormat": "```⊷️「 Format is wrong 」```",
    "error": {
    "stick": "```⊷️「 Sticker Only 」```",
@@ -319,8 +319,8 @@ const mess = {
    "api": "```⊷️「 Error 」```"
    },
     "only": {
-    "group": "```⊷️「 Group Only 」```",
-    "pribadi": "```⊷️「 Private Only 」```"
+    "group": "```⊷️「 Group Only Sayang Yahh 」```",
+    "pribadi": "```⊷️「 Private Only Maaf Sayang 」```"
    },
    "ban": "```⊷️「 You Are Banned 」```"
 }
