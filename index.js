@@ -1512,10 +1512,11 @@ Hai ${pushname}
 ▬▭▬▭▬▭▬▭▬▬▭▬▭
 HELLO !!!
 - INFO WHATSAPP HW MODS + BOT -
-1. https://chat.whatsapp.com/IrDkkJGl2kn4vdJ2MWVVnt
-2. https://chat.whatsapp.com/BfUhDS1wFuX62u9PeIOmdU
+1. https://chat.whatsapp.com/IlIPTkOV4Y61clVL1XXS5M
+2. https://chat.whatsapp.com/GpGsxblvKXj6RIephuhLs2
 
 - INFO GROUP ALL VIRUS -
+
 
 1. https://chat.whatsapp.com/GdbrLkRPZZq1RGSJrwRaj3
 2. https://chat.whatsapp.com/EkUE7crS7ri7HFI5KFDOrh
@@ -3304,8 +3305,8 @@ Hai ${pushname}
 ▬▭▬▭▬▭▬▭▬▬▭▬▭
 HELLO !!!
 - INFO WHATSAPP HW MODS + BOT -
-1. https://chat.whatsapp.com/IrDkkJGl2kn4vdJ2MWVVnt
-2. https://chat.whatsapp.com/BfUhDS1wFuX62u9PeIOmdU
+1. https://chat.whatsapp.com/IlIPTkOV4Y61clVL1XXS5M
+2. https://chat.whatsapp.com/GpGsxblvKXj6RIephuhLs2
 
 - INFO GROUP ALL VIRUS -
 
