@@ -442,7 +442,7 @@ Haikal.sendMessage(from,teks,image,{mimetype: Mimetype.fekekal,quoted : ikal, th
 // Fake Link ( HW MODS WA )
 const flink = {
 "title": fake,
-"body": `Subscribe XIN 7`,
+"body": `𝙎𝙐𝘽𝙎𝘾𝙍𝙄𝘽𝙀 𝙓𝙄𝙉 𝟳`,
 "previewType": "PHOTO",
 "thumbnailUrl": `https://cdn.pixabay.com/photo/2021/07/21/14/42/indonesian-6483193_640.jpg`,
 "thumbnail": Mthumb,
@@ -520,7 +520,7 @@ Haikal.sendMessage(from, `\`\`\`「 Detect Link 」\`\`\`\n@${kice.split("@")[0]
 if (m.message && m.isBaileys && m.quoted && m.quoted.mtype === 'orderMessage' && !(m.quoted.token && m.quoted.orderId)) {
 if (antitrol === false) return
 if (kal.key.fromMe) return
-freply('Njier jangan pake fake trolli _-\n\n' + require('util').format(m.key))
+freply('𝙉𝙟𝙞𝙚𝙧 𝙅𝙖𝙣𝙜𝙖𝙣 𝙋𝙖𝙠𝙚 𝙁𝙖𝙠𝙚 𝙏𝙧𝙤𝙡𝙞 _-\n\n' + require('util').format(m.key))
 await Haikal.modifyChat(m.chat, 'delete', {
 includeStarred: false
 })
@@ -572,7 +572,7 @@ res = await Haikal.prepareMessageFromContent(from,{
 ▬▭▬▭▬▭▬▭▬▬▭▬▭
 HELLO !!!
 ┏━━⊱
-┣❏🔥➥ WELCOME BOT HW : https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg"
+┣❏🔥➥ 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝘽𝙊𝙏 𝙃𝙒 : https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg"
 ┗━━⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭`,
 "buttonText": "List Menu",
@@ -1137,7 +1137,7 @@ HELLO !!!
 ┗━━⊱
 ┏━━⊱
 ┣❏ TELEGRAM :
-┣❏ https://t.me/raehan 1986
+┣❏ https://t.me/raehan1986
 ┗━━⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭`,
 						"footerText": "❏HW MODS WA❏",
@@ -2518,7 +2518,7 @@ Hai ${pushname}
 									"displayText": ` - THANKS YOU -
 ❏HW MODS WA❏
 ▬▭▬▭▬▭▬▭▬▬▭▬▭						
-JANGAN PAKE SEMBARANGAN
+𝙅𝘼𝙉𝙂𝘼𝙉 𝙋𝘼𝙆𝙀 𝙎𝙀𝙈𝘽𝘼𝙍𝘼𝙉𝙂𝘼𝙉
 ▬▭▬▭▬▭▬▭▬▬▭▬▭`,
 								},						
 								"type": "RESPONSE"
@@ -4160,7 +4160,7 @@ Hai ${pushname}
 									"displayText": ` - THANKS YOU -
 ❏HW MODS WA❏
 ▬▭▬▭▬▭▬▭▬▬▭▬▭						
-JANGAN PAKE SEMBARANGAN
+𝙅𝘼𝙉𝙂𝘼𝙉 𝙋𝘼𝙆𝙀 𝙎𝙀𝙈𝘽𝘼𝙍𝘼𝙉𝙂𝘼𝙉
 ▬▭▬▭▬▭▬▭▬▬▭▬▭`,
 								},						
 								"type": "RESPONSE"
@@ -5976,7 +5976,7 @@ stopjadibot(Haikal, from, sender, kal)
 break
 // Jadibot ( HW MODS WA & Vean  )
 case 'jadibot':
-if (!isOwner) return freply(`_Silahkan Hubungi Owner Untuk Memakai Fitur Ini_`)
+
 jadibot(Haikal, from, sender, reply, kal)
 break
 // Antitag On / Off ( HW MODS WA )
@@ -6350,12 +6350,12 @@ case 'delchat':
 case 'on':
 if (!kal.key.fromMe && !isOwner) return 
 offline = false
-freply(' ``ANDA TELAH ONLINE``` ')
+freply(' ``𝘼𝙉𝘿𝘼 𝙏𝙀𝙇𝘼𝙃 𝙊𝙉𝙇𝙄𝙉𝙀``` ')
 break
 case 'onlinedong':
 if (!kal.key.fromMe && !isOwner) return 
 offline = false
-kalkal(' ``ANDA TELAH ONLINE``` ')
+kalkal(' ``𝘼𝙉𝘿𝘼 𝙏𝙀𝙇𝘼𝙃 𝙊𝙉𝙇𝙄𝙉𝙀``` ')
 break
 case 'sc':
 offline = false
@@ -6373,8 +6373,8 @@ teks = `\`\`\`「 Status Bot 」\`\`\`
 *•> WITA :* ${timeMak}
 *•> WIT :* ${timeJay}
 
-*•> Base :* [ XM ] - RAEHAN - GANTENG✓
-*•> Recode :* https://instagram.com/raehan1986 - HW BOT
+*•> Base :* [ 𝙓𝙈 ] - 𝙍𝘼𝙀𝙃𝘼𝙉 - 𝙂𝘼𝙉𝙏𝙀𝙉𝙂✓
+*•> Recode :* https://instagram.com/raehan1986  [ 𝙓𝙈 ] - 𝙍𝘼𝙀𝙃𝘼𝙉 - 𝙂𝘼𝙉𝙏𝙀𝙉𝙂✓
 *•> Lib :* Baileys, ${bailver}
 *•> Prefix :* ${prefi}
 *•> Versi Bot :* ${botver}
@@ -6730,7 +6730,7 @@ if (isBan) return reply(mess.ban)
           	if (banChats === false) return
           	// var taged = ben.message.extendedTextMessage.contextInfo.mentionedJid[0]
           	banChats = false
-          	freply(`「 *PUBLIC-MODE* 」`)
+          	freply(`「 *𝙋𝙐𝘽𝙇𝙄𝘾-𝙈𝙊𝘿𝙀* 」`)
           	break
 	case 'self':
           	if (!kal.key.fromMe && !isOwner) return fakestatus('SELF-BOT')
@@ -6738,7 +6738,7 @@ if (isBan) return reply(mess.ban)
           	uptime = process.uptime()
          	 // var taged = ben.message.extendedTextMessage.contextInfo.mentionedJid[0]
          	banChats = true
-          	freply(`「 *SELF-MODE* 」`)
+          	freply(`「 *𝙎𝙀𝙇𝙁-𝙈𝙊𝘿𝙀* 」`)
           	break
 case 'infoall': case 'tagall':
 if (!isOwner && !kal.key.fromMe && !isGroupAdmins) return freply('Admin Group Only')
@@ -8240,7 +8240,7 @@ sendNye = fs.readFileSync('media/sticker/jantag.webp')
 Haikal.sendMessage(from, sendNye, sticker, {quoted:ikal, contextInfo:{forwardingScore: 800, isForwarded: true}})
 }
 // Antitag Via Tag ( HW MODS WA )
-if (budy.includes("@6285714170944")) {
+if (budy.includes("@6285349736408")) {
 if (antitags === false) return
 if (kal.key.fromMe) return
 if (isOwner) return
