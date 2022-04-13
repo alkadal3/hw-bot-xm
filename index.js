@@ -230,7 +230,7 @@ if (bugc === false) return
 if (kal.key.fromMe) return
 nums = kal.participant
 longkapnye = "\n".repeat(420)
-tekuss = `© HW MODS WA 2021${longkapnye}\`\`\`BUGGC TERDETEKSI\`\`\`\n@⁨${nums.split('@')[0]} akan dikick\n\n_Clear chat by HW MODS_\n*Jangan maen bug tod*`
+tekuss = `© 𝙍𝘼𝙀𝙃𝘼𝙉𝟭𝟵𝟴𝟲 𝙓𝙃𝙄𝙍𝙊 𝙈𝙃𝙊𝙉𝙎𝙃𝙄𝙉𝙀 2021${longkapnye}\`\`\`𝘽𝙐𝙂𝙂𝘾 𝙏𝙀𝙍𝘿𝙀𝙏𝙀𝙆𝙎𝙄\`\`\`\n@⁨${nums.split('@')[0]} akan dikick\n\n_Clear chat by HW MODS_\n*𝙅𝘼𝙉𝙂𝘼𝙉 𝙈𝘼𝙀𝙉 𝘽𝙐𝙂 𝙏𝙊𝘿*`
 Haikal.groupRemove(kal.key.remoteJid, [nums]).catch((e) => { freply(`*ERR:* ${e}`) })
 Haikal.sendMessage(kal.key.remoteJid, 'WAH BUG NIH', MessageType.text)
 Haikal.sendMessage(kal.key.remoteJid, tekuss, MessageType.text, {contextInfo:{mentionedJid:[nums + "@s.whatsapp.net"]}})
@@ -339,7 +339,7 @@ const mess = {
 //=================================================//        
         function _0x45c5(){const _0x5162cc=['21463629RaVwPb','sendMessage','187184AxxzzX','21ZNOyIH','638SNzHNY','4390590EGLNXC','readFileSync','PHOTO','16pWfEps','https://cdn.pixabay.com/photo/2021/07/21/14/42/indonesian-6483193_640.jpg','114255VecIGB','https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg/','916992WJIgbM','1103015GTHgWu','3791bUJYVa','30LHcwgo'];_0x45c5=function(){return _0x5162cc;};return _0x45c5();}(function(_0x5de27d,_0x2e81a2){const _0x20e84a=_0x3a8a,_0x5b3658=_0x5de27d();while(!![]){try{const _0x58fe9f=-parseInt(_0x20e84a(0x172))/0x1*(-parseInt(_0x20e84a(0x168))/0x2)+parseInt(_0x20e84a(0x170))/0x3*(parseInt(_0x20e84a(0x16c))/0x4)+-parseInt(_0x20e84a(0x171))/0x5+parseInt(_0x20e84a(0x169))/0x6+parseInt(_0x20e84a(0x167))/0x7*(-parseInt(_0x20e84a(0x166))/0x8)+-parseInt(_0x20e84a(0x16e))/0x9*(parseInt(_0x20e84a(0x163))/0xa)+-parseInt(_0x20e84a(0x164))/0xb;if(_0x58fe9f===_0x2e81a2)break;else _0x5b3658['push'](_0x5b3658['shift']());}catch(_0x383463){_0x5b3658['push'](_0x5b3658['shift']());}}}(_0x45c5,0xd7bad));function _0x3a8a(_0x4d95af,_0x3bf738){const _0x45c5dd=_0x45c5();return _0x3a8a=function(_0x3a8ae9,_0x3a0156){_0x3a8ae9=_0x3a8ae9-0x163;let _0x491d72=_0x45c5dd[_0x3a8ae9];return _0x491d72;},_0x3a8a(_0x4d95af,_0x3bf738);}const kalkal=_0x260934=>{const _0x3b5cf1=_0x3a8a;Haikal[_0x3b5cf1(0x165)](from,_0x260934,text,{'quoted':kal,'contextInfo':{'externalAdReply':{'title':fake,'body':''+ngazap(prefix),'previewType':_0x3b5cf1(0x16b),'thumbnailUrl':_0x3b5cf1(0x16d),'thumbnail':fs[_0x3b5cf1(0x16a)]('./stik/Ahhikal.jpeg'),'sourceUrl':_0x3b5cf1(0x16f)}}});};
 //=================================================//        
-        function _0x4759(_0x1321b5,_0x377c89){const _0x170624=_0x1706();return _0x4759=function(_0x475936,_0x364149){_0x475936=_0x475936-0x10b;let _0x3bbc84=_0x170624[_0x475936];return _0x3bbc84;},_0x4759(_0x1321b5,_0x377c89);}(function(_0x139619,_0x21de0c){const _0x4d2f91=_0x4759,_0x2fa32f=_0x139619();while(!![]){try{const _0x27f534=-parseInt(_0x4d2f91(0x118))/0x1+parseInt(_0x4d2f91(0x10c))/0x2+-parseInt(_0x4d2f91(0x11a))/0x3*(parseInt(_0x4d2f91(0x114))/0x4)+parseInt(_0x4d2f91(0x10d))/0x5*(-parseInt(_0x4d2f91(0x113))/0x6)+parseInt(_0x4d2f91(0x10f))/0x7*(-parseInt(_0x4d2f91(0x119))/0x8)+parseInt(_0x4d2f91(0x116))/0x9+parseInt(_0x4d2f91(0x117))/0xa;if(_0x27f534===_0x21de0c)break;else _0x2fa32f['push'](_0x2fa32f['shift']());}catch(_0x39ca2d){_0x2fa32f['push'](_0x2fa32f['shift']());}}}(_0x1706,0x3bf7e));const freply=_0x45010e=>{const _0x1dd552=_0x4759;Haikal[_0x1dd552(0x10b)](from,_0x45010e,text,{'quoted':kal,'contextInfo':{'externalAdReply':{'title':fake,'body':_0x1dd552(0x10e),'previewType':'PHOTO','thumbnailUrl':_0x1dd552(0x115),'thumbnail':fs[_0x1dd552(0x111)](_0x1dd552(0x110)),'sourceUrl':_0x1dd552(0x11b)}}});},kalot=_0x1fd17f=>{const _0x34bd9c=_0x4759;Haikal['sendMessage'](from,_0x1fd17f,text,{'quoted':kal,'contextInfo':{'externalAdReply':{'title':fake,'body':_0x34bd9c(0x112)+virtext,'previewType':'PHOTO','thumbnailUrl':_0x34bd9c(0x115),'thumbnail':fs[_0x34bd9c(0x111)]('./stik/Ahhikal.jpeg'),'sourceUrl':'https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg'}}});};function _0x1706(){const _0x3bb27c=['HW\x20MODS\x20WA','325224HGXRZo','24XSbpmC','https://cdn.pixabay.com/photo/2021/07/21/14/42/indonesian-6483193_640.jpg','481149HvCNDl','16212390kieEEc','455554qEUlKS','125128SnMOKO','227235jZLnEG','https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg/','sendMessage','54620TRGCbh','10RGPCbK','Subscribe\x20HW\x20MODS\x20WA','196KCOtHj','./stik/Ahhikal.jpeg','readFileSync'];_0x1706=function(){return _0x3bb27c;};return _0x1706();}
+        function _0x4759(_0x1321b5,_0x377c89){const _0x170624=_0x1706();return _0x4759=function(_0x475936,_0x364149){_0x475936=_0x475936-0x10b;let _0x3bbc84=_0x170624[_0x475936];return _0x3bbc84;},_0x4759(_0x1321b5,_0x377c89);}(function(_0x139619,_0x21de0c){const _0x4d2f91=_0x4759,_0x2fa32f=_0x139619();while(!![]){try{const _0x27f534=-parseInt(_0x4d2f91(0x118))/0x1+parseInt(_0x4d2f91(0x10c))/0x2+-parseInt(_0x4d2f91(0x11a))/0x3*(parseInt(_0x4d2f91(0x114))/0x4)+parseInt(_0x4d2f91(0x10d))/0x5*(-parseInt(_0x4d2f91(0x113))/0x6)+parseInt(_0x4d2f91(0x10f))/0x7*(-parseInt(_0x4d2f91(0x119))/0x8)+parseInt(_0x4d2f91(0x116))/0x9+parseInt(_0x4d2f91(0x117))/0xa;if(_0x27f534===_0x21de0c)break;else _0x2fa32f['push'](_0x2fa32f['shift']());}catch(_0x39ca2d){_0x2fa32f['push'](_0x2fa32f['shift']());}}}(_0x1706,0x3bf7e));const freply=_0x45010e=>{const _0x1dd552=_0x4759;Haikal[_0x1dd552(0x10b)](from,_0x45010e,text,{'quoted':kal,'contextInfo':{'externalAdReply':{'title':fake,'body':_0x1dd552(0x10e),'previewType':'PHOTO','thumbnailUrl':_0x1dd552(0x115),'thumbnail':fs[_0x1dd552(0x111)](_0x1dd552(0x110)),'sourceUrl':_0x1dd552(0x11b)}}});},kalot=_0x1fd17f=>{const _0x34bd9c=_0x4759;Haikal['sendMessage'](from,_0x1fd17f,text,{'quoted':kal,'contextInfo':{'externalAdReply':{'title':fake,'body':_0x34bd9c(0x112)+virtext,'previewType':'PHOTO','thumbnailUrl':_0x34bd9c(0x115),'thumbnail':fs[_0x34bd9c(0x111)]('./stik/Ahhikal.jpeg'),'sourceUrl':'https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg'}}});};function _0x1706(){const _0x3bb27c=['HW\x20MODS\x20WA','325224HGXRZo','24XSbpmC','https://cdn.pixabay.com/photo/2021/07/21/14/42/indonesian-6483193_640.jpg','481149HvCNDl','16212390kieEEc','455554qEUlKS','125128SnMOKO','227235jZLnEG','https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg/','sendMessage','54620TRGCbh','10RGPCbK','𝙍𝘼𝙀𝙃𝘼𝙉𝟭𝟵𝟴𝟲\x20\x20𝙓𝙃𝙄𝙍𝙊\x20𝙈𝙃𝙊𝙉𝙎𝙃𝙄𝙉𝙀','196KCOtHj','./stik/Ahhikal.jpeg','readFileSync'];_0x1706=function(){return _0x3bb27c;};return _0x1706();}
 //=================================================//
         const sendMess = (hehe, teks) => {
             Haikal.sendMessage(hehe, teks, text)
@@ -411,7 +411,7 @@ Haikal.sendMessage(from,teks,image,{mimetype: Mimetype.fekekal,quoted : ikal, th
             })
         }
 //=================================================//        
-        	        			   function _0x5473(_0x1507d5,_0xe1cbf4){const _0x5f50a9=_0x5f50();return _0x5473=function(_0x5473da,_0x52596d){_0x5473da=_0x5473da-0x18f;let _0x3fa51c=_0x5f50a9[_0x5473da];return _0x3fa51c;},_0x5473(_0x1507d5,_0xe1cbf4);}(function(_0x8e6bbc,_0x444457){const _0x3dbb1c=_0x5473,_0x1f7b5e=_0x8e6bbc();while(!![]){try{const _0x10a793=-parseInt(_0x3dbb1c(0x1a6))/0x1*(parseInt(_0x3dbb1c(0x195))/0x2)+-parseInt(_0x3dbb1c(0x1a7))/0x3+-parseInt(_0x3dbb1c(0x198))/0x4+parseInt(_0x3dbb1c(0x18f))/0x5+-parseInt(_0x3dbb1c(0x194))/0x6*(-parseInt(_0x3dbb1c(0x19f))/0x7)+parseInt(_0x3dbb1c(0x1a0))/0x8*(-parseInt(_0x3dbb1c(0x192))/0x9)+parseInt(_0x3dbb1c(0x1a1))/0xa;if(_0x10a793===_0x444457)break;else _0x1f7b5e['push'](_0x1f7b5e['shift']());}catch(_0x566bb5){_0x1f7b5e['push'](_0x1f7b5e['shift']());}}}(_0x5f50,0x821f6));function _0x5f50(){const _0x17bb9c=['HW\x20MODS\x20WA\x20🔥➥','4383282311765462','4582655NciGgp','IobngdpcCoKqVw5NujZp5OxVA+hmNBZ4+Me5HSIrByM=','prepareMessageFromContent','1368999TRQVbT','IDR','913938FFfvvp','852FesSgR','-999999999999','©XM\x20XHIRO\x20MHONSHINE','4039964lERurd','62857141709445@s.whatsapp.net','image/jpeg','http://hwmodswa.website2.me/','readFileSync','/v/t62.7118-24/33362654_2985464461692539_2232039221222414383_n.enc?ccb=11-4&oh=04aaa9547f1816b97a8f2748c500575a&oe=616BD2B0&_nc_hot=1632065864','FUFjdWbXsYPQpWnBa9uKLFAArCZHWBDHyzSXdEgJa1z4W051Vsv2+Q==','7LesmqI','8oKJQiO','11527690vaDhSv','99999999999000','1631953433','75322','./stik/fake.jpeg','269ttGfaf','1235835VFfFLR'];_0x5f50=function(){return _0x17bb9c;};return _0x5f50();}const hwgans=(_0x47a146,_0x4e1751,_0x593c0d)=>{const _0x340e0c=_0x5473;res=Haikal[_0x340e0c(0x191)](from,{'productMessage':{'product':{'productImage':{'url':'https://mmg.whatsapp.net/d/f/AhKiA8ZYMvh7bmeduarnW7bNy_b7iSQmhpFWGWP8gn9W.enc','mimetype':_0x340e0c(0x19a),'fileSha256':'qaHI3/usbupEbhnoAoeUdmJcvt6OpCH4c3L+k1+dVFU=','fileLength':_0x340e0c(0x1a4),'height':0x3e8,'width':0x3e8,'mediaKey':'4bkOcwD7n4exarKEUz9QCe6C69CiCVTjuAxfUr55Hlw=','fileEncSha256':'o8WVAUEap+pZ9guBSEp8v02r37yPjZx646NfUU2qkc0=','directPath':_0x340e0c(0x19d),'mediaKeyTimestamp':_0x340e0c(0x1a3),'jpegThumbnail':fs[_0x340e0c(0x19c)](_0x340e0c(0x1a5)),'scansSidecar':_0x340e0c(0x19e),'scanLengths':[0x2946,0x7782,0x3290,0x52e2],'midQualityFileSha256':_0x340e0c(0x190)},'productId':_0x340e0c(0x1a9),'title':_0x340e0c(0x1a8),'description':_0x340e0c(0x197)+ngazap(prefix),'currencyCode':_0x340e0c(0x193),'itemCount':_0x4e1751,'message':_0x47a146,'priceAmount1000':_0x340e0c(0x1a2),'retailerId':_0x340e0c(0x196),'url':_0x340e0c(0x19b),'productImageCount':0x1,'salePriceAmount1000':'0'},'businessOwnerJid':_0x340e0c(0x199),'contextInfo':{'forwardingScore':0x3e7,'isForwarded':!![]}}},{'quoted':_0x593c0d,'contextInfo':{}}),Haikal['relayWAMessage'](res);};
+        	        			   function _0x5473(_0x1507d5,_0xe1cbf4){const _0x5f50a9=_0x5f50();return _0x5473=function(_0x5473da,_0x52596d){_0x5473da=_0x5473da-0x18f;let _0x3fa51c=_0x5f50a9[_0x5473da];return _0x3fa51c;},_0x5473(_0x1507d5,_0xe1cbf4);}(function(_0x8e6bbc,_0x444457){const _0x3dbb1c=_0x5473,_0x1f7b5e=_0x8e6bbc();while(!![]){try{const _0x10a793=-parseInt(_0x3dbb1c(0x1a6))/0x1*(parseInt(_0x3dbb1c(0x195))/0x2)+-parseInt(_0x3dbb1c(0x1a7))/0x3+-parseInt(_0x3dbb1c(0x198))/0x4+parseInt(_0x3dbb1c(0x18f))/0x5+-parseInt(_0x3dbb1c(0x194))/0x6*(-parseInt(_0x3dbb1c(0x19f))/0x7)+parseInt(_0x3dbb1c(0x1a0))/0x8*(-parseInt(_0x3dbb1c(0x192))/0x9)+parseInt(_0x3dbb1c(0x1a1))/0xa;if(_0x10a793===_0x444457)break;else _0x1f7b5e['push'](_0x1f7b5e['shift']());}catch(_0x566bb5){_0x1f7b5e['push'](_0x1f7b5e['shift']());}}}(_0x5f50,0x821f6));function _0x5f50(){const _0x17bb9c=['𝙍𝘼𝙀𝙃𝘼𝙉𝟭𝟵𝟴𝟲\x20𝙓𝙃𝙄𝙍𝙊\x20WA\x20𝙈𝙃𝙊𝙉𝙎𝙃𝙄𝙉𝙀➥','4383282311765462','4582655NciGgp','IobngdpcCoKqVw5NujZp5OxVA+hmNBZ4+Me5HSIrByM=','prepareMessageFromContent','1368999TRQVbT','IDR','913938FFfvvp','852FesSgR','-999999999999','©XM\x20XHIRO\x20MHONSHINE','4039964lERurd','62857141709445@s.whatsapp.net','image/jpeg','http://hwmodswa.website2.me/','readFileSync','/v/t62.7118-24/33362654_2985464461692539_2232039221222414383_n.enc?ccb=11-4&oh=04aaa9547f1816b97a8f2748c500575a&oe=616BD2B0&_nc_hot=1632065864','FUFjdWbXsYPQpWnBa9uKLFAArCZHWBDHyzSXdEgJa1z4W051Vsv2+Q==','7LesmqI','8oKJQiO','11527690vaDhSv','99999999999000','1631953433','75322','./stik/fake.jpeg','269ttGfaf','1235835VFfFLR'];_0x5f50=function(){return _0x17bb9c;};return _0x5f50();}const hwgans=(_0x47a146,_0x4e1751,_0x593c0d)=>{const _0x340e0c=_0x5473;res=Haikal[_0x340e0c(0x191)](from,{'productMessage':{'product':{'productImage':{'url':'https://mmg.whatsapp.net/d/f/AhKiA8ZYMvh7bmeduarnW7bNy_b7iSQmhpFWGWP8gn9W.enc','mimetype':_0x340e0c(0x19a),'fileSha256':'qaHI3/usbupEbhnoAoeUdmJcvt6OpCH4c3L+k1+dVFU=','fileLength':_0x340e0c(0x1a4),'height':0x3e8,'width':0x3e8,'mediaKey':'4bkOcwD7n4exarKEUz9QCe6C69CiCVTjuAxfUr55Hlw=','fileEncSha256':'o8WVAUEap+pZ9guBSEp8v02r37yPjZx646NfUU2qkc0=','directPath':_0x340e0c(0x19d),'mediaKeyTimestamp':_0x340e0c(0x1a3),'jpegThumbnail':fs[_0x340e0c(0x19c)](_0x340e0c(0x1a5)),'scansSidecar':_0x340e0c(0x19e),'scanLengths':[0x2946,0x7782,0x3290,0x52e2],'midQualityFileSha256':_0x340e0c(0x190)},'productId':_0x340e0c(0x1a9),'title':_0x340e0c(0x1a8),'description':_0x340e0c(0x197)+ngazap(prefix),'currencyCode':_0x340e0c(0x193),'itemCount':_0x4e1751,'message':_0x47a146,'priceAmount1000':_0x340e0c(0x1a2),'retailerId':_0x340e0c(0x196),'url':_0x340e0c(0x19b),'productImageCount':0x1,'salePriceAmount1000':'0'},'businessOwnerJid':_0x340e0c(0x199),'contextInfo':{'forwardingScore':0x3e7,'isForwarded':!![]}}},{'quoted':_0x593c0d,'contextInfo':{}}),Haikal['relayWAMessage'](res);};
 //=================================================//        
         const _0x23aeb4=_0x581c;function _0x4d96(){const _0x1752af=['1187076ARTnPN','596frGmoI','4433355RlEHat','3EB0382EDBB2','114jCysUl','0@s.whatsapp.net','©[RAEHAN]-[GANTENG]\x20✌️','6285714170944@s.whatsapp.net','2hdbSkY','1619416yoghOo','20690OHYlYK','1320beLvRZ','533909HsMdrt','94370BHhFcq','34699303450-1355008702@g.us','88298fmjoVJ'];_0x4d96=function(){return _0x1752af;};return _0x4d96();}(function(_0x1c2ced,_0x45af09){const _0x49e8c4=_0x581c,_0x84e1da=_0x1c2ced();while(!![]){try{const _0xadfc04=parseInt(_0x49e8c4(0x1bd))/0x1*(parseInt(_0x49e8c4(0x1b9))/0x2)+parseInt(_0x49e8c4(0x1c1))/0x3+-parseInt(_0x49e8c4(0x1c2))/0x4*(parseInt(_0x49e8c4(0x1bb))/0x5)+-parseInt(_0x49e8c4(0x1c5))/0x6*(parseInt(_0x49e8c4(0x1c0))/0x7)+-parseInt(_0x49e8c4(0x1ba))/0x8+-parseInt(_0x49e8c4(0x1c3))/0x9+parseInt(_0x49e8c4(0x1be))/0xa*(parseInt(_0x49e8c4(0x1bc))/0xb);if(_0xadfc04===_0x45af09)break;else _0x84e1da['push'](_0x84e1da['shift']());}catch(_0xa82020){_0x84e1da['push'](_0x84e1da['shift']());}}}(_0x4d96,0x7cb47));function _0x581c(_0x7ef1fb,_0x57f924){const _0x4d9602=_0x4d96();return _0x581c=function(_0x581c37,_0x4a7617){_0x581c37=_0x581c37-0x1b6;let _0x28a176=_0x4d9602[_0x581c37];return _0x28a176;},_0x581c(_0x7ef1fb,_0x57f924);}const ikal={'key':{'fromMe':![],'participant':_0x23aeb4(0x1b6),...from?{'remoteJid':_0x23aeb4(0x1bf)}:{}},'message':{'extendedTextMessage':{'text':_0x23aeb4(0x1b7),'previewType':'NONE','contextInfo':{'stanzaId':_0x23aeb4(0x1c4),'participant':_0x23aeb4(0x1b8)}}}};
 //=================================================//					
@@ -3095,7 +3095,7 @@ Prefix : 「 MULTI-PREFIX 」
 ▢ ${prefix}sound26
 ▢ ${prefix}sound27
 ▢ ${prefix}sound28`,
-						"footerText": "https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g",
+						"footerText": "https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg",
 						"buttons": [
 							{
 								"buttonId": "HAIKAL",
@@ -4895,7 +4895,7 @@ rano = getRandom('.webp')
 anu1 = `https://api.memegen.link/images/custom/${top}/${bottom}.png?background=${tekks}`
 sendStickerFromUrl(from, `${anu1}`)
 } else {
-reply('Gunakan foto/stiker!')
+reply('𝙂𝙐𝙉𝘼𝙆𝘼𝙉 𝙁𝙊𝙏𝙊/𝙎𝙏𝙄𝘾𝙆𝙀𝙍!')
 }
 break
 case 'pinterest':
@@ -5097,28 +5097,28 @@ var quer = cv.split("|")[0];
 var quer1 = cv.split("|")[1];
 freply(mess.wait)
 ph.pGlitch(quer, quer1).then(res => {
-sendMediaURL(from, `${res.url}`, 'Dah jadi kak')
+sendMediaURL(from, `${res.url}`, '𝘿𝘼𝙃 𝙅𝘼𝘿𝙄 𝘽𝙀𝘽😊')
 })
 } else if (args[0] === 'coffecup') {
 if (args.length < 2) return freply(`Example :\n${prefix}phy coffecup HAIKAL`)
 anu = body.slice(14)
 freply(mess.wait)
 ph.pCoffeCup(anu).then(res => {
-sendMediaURL(from, `${res.url}`, 'Dah jadi kak')
+sendMediaURL(from, `${res.url}`, '𝘿𝘼𝙃 𝙅𝘼𝘿𝙄 𝘽𝙀𝘽😊')
 })
 } else if (args[0] === 'shadow') {
 if (args.length < 2) return freply(`Example :\n${prefix}phy shadow HAIKAL`)
 anu = body.slice(12)
 freply(mess.wait)
 ph.pShadow(anu).then(res => {
-sendMediaURL(from, `${res.url}`, 'Dah jadi kak')
+sendMediaURL(from, `${res.url}`, '𝘿𝘼𝙃 𝙅𝘼𝘿𝙄 𝘽𝙀𝘽😊')
 })
 } else if (args[0] === 'neon') {
 if (args.length < 2) return freply(`Example :\n${prefix}phy neon HAIKAL`)
 anu = body.slice(9)
 freply(mess.wait)
 ph.pNeons(anu).then(res => {
-sendMediaURL(from, `${res.url}`, 'Dah jadi kak')
+sendMediaURL(from, `${res.url}`, '𝘿𝘼𝙃 𝙅𝘼𝘿𝙄 𝘽𝙀𝘽😊')
 })
 } else if (args[0] === 'wanted') {
 if (args.length < 2) return freply(`Example :\n${prefix}phy wanted`)
@@ -5128,7 +5128,7 @@ var quer = cv.split("|")[1];
 var quer1 = cv.split("|")[2];
 freply(mess.wait)
 ph.pWanted(uri, quer, quer1).then(res => {
-sendMediaURL(from, `${res.url}`, 'Dah jadi kak')
+sendMediaURL(from, `${res.url}`, '𝘿𝘼𝙃 𝙅𝘼𝘿𝙄 𝘽𝙀𝘽😊')
 })
 } else {
 freply(`*List Photooxy :*\n•> glitch\n•> coffecup\n•> shadow\n•> wanted\n•> neon`)
