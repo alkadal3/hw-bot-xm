@@ -310,13 +310,13 @@ Haikal.sendMessage(kal.key.remoteJid, tekuss, MessageType.text, {contextInfo:{me
     const atibot = m.isBaileys                
 //=================================================//        
 const mess = {
-   "wait": "```⊷️「  Wait Sayang 」```",
-   " Success": "```⊷️「 Success Sayang Kuhh 」```",
-   "wrongFormat": "```⊷️「 Format is wrong 」```",
+   "wait": "```⊷️「  𝙒𝘼𝙄𝙏 𝙂𝘼𝙆 𝙐𝙎𝘼𝙃 𝙉𝘿𝙀𝙎𝘼𝙃  」```",
+   " Success": "```⊷️「 𝙎𝙐𝘾𝘾𝙀𝙎𝙎 」```",
+   "wrongFormat": "```⊷️「 𝙁𝙊𝙍𝙈𝘼𝙏 𝙄𝙎 𝙒𝙍𝙊𝙉𝙂 」```",
    "error": {
-   "stick": "```⊷️「 Sticker Only 」```",
-   "lv": "```⊷️「 Error 」```",
-   "api": "```⊷️「 Error 」```"
+   "stick": "```⊷️「 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 𝘼𝙔𝘼𝙉𝙆 」```",
+   "lv": "```⊷️「 𝙀𝙍𝙍𝙊𝙍 𝘼𝙔𝘼𝙉𝙆 」```",
+   "api": "```⊷️「 𝙀𝙍𝙍𝙊𝙍 𝘼𝙔𝘼𝙉𝙆 」```"
    },
     "only": {
     "group": "```⊷️「 Group Only Sayang Yahh 」```",
