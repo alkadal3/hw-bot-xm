@@ -56,7 +56,7 @@ if (antical === false) return
 let call;
 calling = JSON.parse(JSON.stringify(json))
 call = calling[1].from
-Haikal.sendMessage(call, `*Sorry Hanya Menerima Panggilan Penting Hanya Boleh Menelfon 1/2 kali. Jika melebihi Batas ${Haikal.user.name} Tidak Dapat Menerima Panggilan.*\n*Call = Block!¹⁹⁸⁶*`, MessageType.text)
+Haikal.sendMessage(call, `*𝙎𝙊𝙍𝙍𝙔 𝙃𝘼𝙉𝙔𝘼 𝙈𝙀𝙉𝙀𝙍𝙄𝙈𝘼 𝙋𝘼𝙉𝙂𝙂𝙄𝙇𝘼𝙉 𝙋𝙀𝙉𝙏𝙄𝙉𝙂. 𝙃𝘼𝙉𝙔𝘼 𝘽𝙊𝙇𝙀𝙃 𝙈𝙀𝙉𝙀𝙇𝙁𝙊𝙉 𝟭/𝟮𝙆𝘼𝙇𝙄 𝙅𝙄𝙆𝘼 𝙈𝙀𝙇𝙀𝘽𝙄𝙃𝙄 𝘽𝘼𝙏𝘼𝙎 ${Haikal.user.name} 𝙏𝙄𝘿𝘼𝙆 𝘼𝙆𝘼𝙉 𝙈𝙀𝙉𝙀𝙍𝙄𝙈𝘼 𝙋𝘼𝙉𝙂𝙂𝙄𝙇𝘼𝙉.*\n*𝘾𝘼𝙇𝙇 = 𝘽𝙇𝙊𝘾𝙆 ¹⁹⁸⁶*`, MessageType.text)
 .then(() => Haikal.rejectUser(call, "add"))
 })
 isBattre = 'Not Detect'
