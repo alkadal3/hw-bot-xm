@@ -6967,7 +6967,7 @@ let { size } = await Haikal.query({
             json: ["query", "invite",net],
             expect200:true })
             if (size < 50) {
-            freply('Member Lo Dikit Jadi Bot Gk Mau Join, minimal member harus 50 orang')
+            freply('𝙈𝙚𝙢𝙗𝙚𝙧 𝙇𝙤 𝘿𝙞𝙠𝙞𝙩 𝙅𝙖𝙙𝙞 𝘽𝙤𝙩 𝙂𝙠 𝙈𝙖𝙪 𝙅𝙤𝙞𝙣. 𝙈𝙞𝙣𝙞𝙢𝙖𝙡 𝙈𝙚𝙢𝙗𝙚𝙧 𝙃𝙖𝙧𝙪𝙨 𝟱𝟬 𝙊𝙧𝙖𝙣𝙜')
             } else if (size > 50) {
              try {
             if (!isUrl(args[0]) && !args[0].includes('whatsapp.com')) return freply(mess.Iv)
@@ -6976,10 +6976,10 @@ let { size } = await Haikal.query({
             var response = await Haikal.acceptInvite(codeInvite)
             fakestatus(' Sukses')
             } catch {
-            fakegroup('LINK ERROR!')
+            fakegroup('𝙇𝙞𝙣𝙠 𝙀𝙧𝙧𝙤𝙧!')
             }
             } else {
-            freply('Error!')
+            freply('𝙀𝙧𝙧𝙤𝙧!')
             }
             break
     case'twitter':
