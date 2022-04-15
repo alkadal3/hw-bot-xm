@@ -653,12 +653,12 @@ var _0x59ba30=_0x43bd;function _0x2053(){var _0x40b8d1=['musik24','musik23','mus
 
 //AutoVn
 
-if (budy.startsWith('assalamualaikum')){
+if (budy.startsWith('Assalamualaikum')){
 if (isBan) return reply(mess.ban)
 const assalamualaikum = fs.readFileSync('media/assalamualaikum.mp3')
                     Haikal.sendMessage(from, assalamualaikum, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('p')){
+                    if (budy.startsWith('P')){
 if (isBan) return reply(mess.ban)
 const ahcok = fs.readFileSync('media/p.mp3')
                     Haikal.sendMessage(from, ahcok, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
@@ -6094,7 +6094,7 @@ break
 // Block List ( HW MODS WA & Nurutomo )
 case 'blocklist':
 let blockede = Haikal.blocklist.map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').filter(v => v != Haikal.user.jid)
-Haikal.reply(m.chat, `┌「 *List Blockir* 」` + `\n` + blockede.map((v, i) => `│ ${i + 1}. @${v.split`@`[0]}`).join`\n` + `\n└────`, m, { contextInfo: { mentionedJid: blocked } })
+Haikal.reply(m.chat, `┌「 *𝑳𝒊𝒔𝒕 𝑩𝒍𝒐𝒄𝒌𝒊𝒓* 」` + `\n` + blockede.map((v, i) => `│ ${i + 1}. @${v.split`@`[0]}`).join`\n` + `\n└────`, m, { contextInfo: { mentionedJid: blocked } })
 break
 // Detik Vn ( HW MODS WA & Denis )
 case 'detikvn':
@@ -6994,7 +6994,7 @@ let { size } = await Haikal.query({
             break
     case 'runtime':
     case 'test':
-            teks = `${kyun(run)}\n\n「 𝗕𝗔𝗜𝗟𝗘𝗬𝗦 𝗦𝗘𝗟𝗙𝗕𝗢𝗧 」`
+            teks = `${kyun(run)}\n\n「 𝗕𝗔𝗜𝗟𝗘𝗬𝗦 𝗦𝗘𝗟𝗙𝗕𝗢𝗧 𝗥𝗔𝗘𝗛𝗔𝗡 𝟭𝟵𝟴𝟲 」`
             freply(teks)
             break              					
 	case 'speed':
