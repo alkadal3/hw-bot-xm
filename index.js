@@ -653,14 +653,14 @@ var _0x59ba30=_0x43bd;function _0x2053(){var _0x40b8d1=['musik24','musik23','mus
 
 //AutoVn
 
-if (budy.startsWith('%%%%%%%%%')){
+if (budy.startsWith('assalamualaikum')){
 if (isBan) return reply(mess.ban)
 const assalamualaikum = fs.readFileSync('media/assalamualaikum.mp3')
                     Haikal.sendMessage(from, assalamualaikum, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('%%%%%%%%')){
+                    if (budy.startsWith('p')){
 if (isBan) return reply(mess.ban)
-const ahcok = fs.readFileSync('media/ahcok.mp3')
+const ahcok = fs.readFileSync('media/p.mp3')
                     Haikal.sendMessage(from, ahcok, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
                     if (budy.startsWith('%%%%%%%')){
