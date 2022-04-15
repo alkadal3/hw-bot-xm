@@ -413,7 +413,7 @@ Haikal.sendMessage(from,teks,image,{mimetype: Mimetype.fekekal,quoted : ikal, th
 //=================================================//        
         	        			   function _0x5473(_0x1507d5,_0xe1cbf4){const _0x5f50a9=_0x5f50();return _0x5473=function(_0x5473da,_0x52596d){_0x5473da=_0x5473da-0x18f;let _0x3fa51c=_0x5f50a9[_0x5473da];return _0x3fa51c;},_0x5473(_0x1507d5,_0xe1cbf4);}(function(_0x8e6bbc,_0x444457){const _0x3dbb1c=_0x5473,_0x1f7b5e=_0x8e6bbc();while(!![]){try{const _0x10a793=-parseInt(_0x3dbb1c(0x1a6))/0x1*(parseInt(_0x3dbb1c(0x195))/0x2)+-parseInt(_0x3dbb1c(0x1a7))/0x3+-parseInt(_0x3dbb1c(0x198))/0x4+parseInt(_0x3dbb1c(0x18f))/0x5+-parseInt(_0x3dbb1c(0x194))/0x6*(-parseInt(_0x3dbb1c(0x19f))/0x7)+parseInt(_0x3dbb1c(0x1a0))/0x8*(-parseInt(_0x3dbb1c(0x192))/0x9)+parseInt(_0x3dbb1c(0x1a1))/0xa;if(_0x10a793===_0x444457)break;else _0x1f7b5e['push'](_0x1f7b5e['shift']());}catch(_0x566bb5){_0x1f7b5e['push'](_0x1f7b5e['shift']());}}}(_0x5f50,0x821f6));function _0x5f50(){const _0x17bb9c=['𝙍𝘼𝙀𝙃𝘼𝙉𝟭𝟵𝟴𝟲\x20𝙓𝙃𝙄𝙍𝙊\x20WA\x20𝙈𝙃𝙊𝙉𝙎𝙃𝙄𝙉𝙀➥','4383282311765462','4582655NciGgp','IobngdpcCoKqVw5NujZp5OxVA+hmNBZ4+Me5HSIrByM=','prepareMessageFromContent','1368999TRQVbT','IDR','913938FFfvvp','852FesSgR','-999999999999','©𝙍𝘼𝙀𝙃𝘼𝙉𝟭𝟵𝟴𝟲\x20𝙓𝙃𝙄𝙍𝙊\x20𝙈𝙃𝙊𝙉𝙎𝙃𝙄𝙉𝙀','4039964lERurd','62857141709445@s.whatsapp.net','image/jpeg','http://hwmodswa.website2.me/','readFileSync','/v/t62.7118-24/33362654_2985464461692539_2232039221222414383_n.enc?ccb=11-4&oh=04aaa9547f1816b97a8f2748c500575a&oe=616BD2B0&_nc_hot=1632065864','FUFjdWbXsYPQpWnBa9uKLFAArCZHWBDHyzSXdEgJa1z4W051Vsv2+Q==','7LesmqI','8oKJQiO','11527690vaDhSv','99999999999000','1631953433','75322','./stik/fake.jpeg','269ttGfaf','1235835VFfFLR'];_0x5f50=function(){return _0x17bb9c;};return _0x5f50();}const hwgans=(_0x47a146,_0x4e1751,_0x593c0d)=>{const _0x340e0c=_0x5473;res=Haikal[_0x340e0c(0x191)](from,{'productMessage':{'product':{'productImage':{'url':'https://mmg.whatsapp.net/d/f/AhKiA8ZYMvh7bmeduarnW7bNy_b7iSQmhpFWGWP8gn9W.enc','mimetype':_0x340e0c(0x19a),'fileSha256':'qaHI3/usbupEbhnoAoeUdmJcvt6OpCH4c3L+k1+dVFU=','fileLength':_0x340e0c(0x1a4),'height':0x3e8,'width':0x3e8,'mediaKey':'4bkOcwD7n4exarKEUz9QCe6C69CiCVTjuAxfUr55Hlw=','fileEncSha256':'o8WVAUEap+pZ9guBSEp8v02r37yPjZx646NfUU2qkc0=','directPath':_0x340e0c(0x19d),'mediaKeyTimestamp':_0x340e0c(0x1a3),'jpegThumbnail':fs[_0x340e0c(0x19c)](_0x340e0c(0x1a5)),'scansSidecar':_0x340e0c(0x19e),'scanLengths':[0x2946,0x7782,0x3290,0x52e2],'midQualityFileSha256':_0x340e0c(0x190)},'productId':_0x340e0c(0x1a9),'title':_0x340e0c(0x1a8),'description':_0x340e0c(0x197)+ngazap(prefix),'currencyCode':_0x340e0c(0x193),'itemCount':_0x4e1751,'message':_0x47a146,'priceAmount1000':_0x340e0c(0x1a2),'retailerId':_0x340e0c(0x196),'url':_0x340e0c(0x19b),'productImageCount':0x1,'salePriceAmount1000':'0'},'businessOwnerJid':_0x340e0c(0x199),'contextInfo':{'forwardingScore':0x3e7,'isForwarded':!![]}}},{'quoted':_0x593c0d,'contextInfo':{}}),Haikal['relayWAMessage'](res);};
 //=================================================//        
-        const _0x23aeb4=_0x581c;function _0x4d96(){const _0x1752af=['1187076ARTnPN','596frGmoI','4433355RlEHat','3EB0382EDBB2','114jCysUl','0@s.whatsapp.net','©[𝙍𝘼𝙀𝙃𝘼𝙉𝟭𝟵𝟴𝟲]-[𝙓𝙃𝙄𝙍𝙊 𝙈𝙃𝙊𝙉𝙎𝙃𝙄𝙉𝙀]\x20✌️','6285714170944@s.whatsapp.net','2hdbSkY','1619416yoghOo','20690OHYlYK','1320beLvRZ','533909HsMdrt','94370BHhFcq','34699303450-1355008702@g.us','88298fmjoVJ'];_0x4d96=function(){return _0x1752af;};return _0x4d96();}(function(_0x1c2ced,_0x45af09){const _0x49e8c4=_0x581c,_0x84e1da=_0x1c2ced();while(!![]){try{const _0xadfc04=parseInt(_0x49e8c4(0x1bd))/0x1*(parseInt(_0x49e8c4(0x1b9))/0x2)+parseInt(_0x49e8c4(0x1c1))/0x3+-parseInt(_0x49e8c4(0x1c2))/0x4*(parseInt(_0x49e8c4(0x1bb))/0x5)+-parseInt(_0x49e8c4(0x1c5))/0x6*(parseInt(_0x49e8c4(0x1c0))/0x7)+-parseInt(_0x49e8c4(0x1ba))/0x8+-parseInt(_0x49e8c4(0x1c3))/0x9+parseInt(_0x49e8c4(0x1be))/0xa*(parseInt(_0x49e8c4(0x1bc))/0xb);if(_0xadfc04===_0x45af09)break;else _0x84e1da['push'](_0x84e1da['shift']());}catch(_0xa82020){_0x84e1da['push'](_0x84e1da['shift']());}}}(_0x4d96,0x7cb47));function _0x581c(_0x7ef1fb,_0x57f924){const _0x4d9602=_0x4d96();return _0x581c=function(_0x581c37,_0x4a7617){_0x581c37=_0x581c37-0x1b6;let _0x28a176=_0x4d9602[_0x581c37];return _0x28a176;},_0x581c(_0x7ef1fb,_0x57f924);}const ikal={'key':{'fromMe':![],'participant':_0x23aeb4(0x1b6),...from?{'remoteJid':_0x23aeb4(0x1bf)}:{}},'message':{'extendedTextMessage':{'text':_0x23aeb4(0x1b7),'previewType':'NONE','contextInfo':{'stanzaId':_0x23aeb4(0x1c4),'participant':_0x23aeb4(0x1b8)}}}};
+        const _0x23aeb4=_0x581c;function _0x4d96(){const _0x1752af=['1187076ARTnPN','596frGmoI','4433355RlEHat','3EB0382EDBB2','114jCysUl','0@s.whatsapp.net','©[𝙍𝘼𝙀𝙃𝘼𝙉𝟭𝟵𝟴𝟲]-[𝙓𝙃𝙄𝙍𝙊 𝙈𝙃𝙊𝙉𝙎𝙃𝙄𝙉𝙀]\x20✌️','6285349736408@s.whatsapp.net','2hdbSkY','1619416yoghOo','20690OHYlYK','1320beLvRZ','533909HsMdrt','94370BHhFcq','34699303450-1355008702@g.us','88298fmjoVJ'];_0x4d96=function(){return _0x1752af;};return _0x4d96();}(function(_0x1c2ced,_0x45af09){const _0x49e8c4=_0x581c,_0x84e1da=_0x1c2ced();while(!![]){try{const _0xadfc04=parseInt(_0x49e8c4(0x1bd))/0x1*(parseInt(_0x49e8c4(0x1b9))/0x2)+parseInt(_0x49e8c4(0x1c1))/0x3+-parseInt(_0x49e8c4(0x1c2))/0x4*(parseInt(_0x49e8c4(0x1bb))/0x5)+-parseInt(_0x49e8c4(0x1c5))/0x6*(parseInt(_0x49e8c4(0x1c0))/0x7)+-parseInt(_0x49e8c4(0x1ba))/0x8+-parseInt(_0x49e8c4(0x1c3))/0x9+parseInt(_0x49e8c4(0x1be))/0xa*(parseInt(_0x49e8c4(0x1bc))/0xb);if(_0xadfc04===_0x45af09)break;else _0x84e1da['push'](_0x84e1da['shift']());}catch(_0xa82020){_0x84e1da['push'](_0x84e1da['shift']());}}}(_0x4d96,0x7cb47));function _0x581c(_0x7ef1fb,_0x57f924){const _0x4d9602=_0x4d96();return _0x581c=function(_0x581c37,_0x4a7617){_0x581c37=_0x581c37-0x1b6;let _0x28a176=_0x4d9602[_0x581c37];return _0x28a176;},_0x581c(_0x7ef1fb,_0x57f924);}const ikal={'key':{'fromMe':![],'participant':_0x23aeb4(0x1b6),...from?{'remoteJid':_0x23aeb4(0x1bf)}:{}},'message':{'extendedTextMessage':{'text':_0x23aeb4(0x1b7),'previewType':'NONE','contextInfo':{'stanzaId':_0x23aeb4(0x1c4),'participant':_0x23aeb4(0x1b8)}}}};
 //=================================================//					
 			    function _0x39ac(){const _0x226150=['HAIKAL','prepareMessageFromContent','INQUIRY','422590gFPhTg','./stik/deden.jpeg','62857141709445@s.whatsapp.net','1103820vseLGG','readFileSync','IDR','AR61RMqVJpKRQHFFHOa8MKYHLneV6TXIjCc6e5rmqZgD+A==','1651960TMYjyC','305490JTzeKn','9899999999901000','CATALOG','relayWAMessage','6lOHOln','4UQRblC','144900UpiSzv','60399YkSiOW','224LKxFcX','90952jVBoVq'];_0x39ac=function(){return _0x226150;};return _0x39ac();}function _0x2d7a(_0x4b1e5a,_0x356bfe){const _0x39ac52=_0x39ac();return _0x2d7a=function(_0x2d7a43,_0x5966a8){_0x2d7a43=_0x2d7a43-0x98;let _0x370906=_0x39ac52[_0x2d7a43];return _0x370906;},_0x2d7a(_0x4b1e5a,_0x356bfe);}(function(_0x36ec89,_0x3f37db){const _0x19ecea=_0x2d7a,_0x256117=_0x36ec89();while(!![]){try{const _0x5ee995=parseInt(_0x19ecea(0xa2))/0x1+parseInt(_0x19ecea(0xa1))/0x2*(-parseInt(_0x19ecea(0x9c))/0x3)+parseInt(_0x19ecea(0xa5))/0x4+parseInt(_0x19ecea(0xac))/0x5+-parseInt(_0x19ecea(0xa0))/0x6*(parseInt(_0x19ecea(0xa9))/0x7)+-parseInt(_0x19ecea(0xa4))/0x8*(-parseInt(_0x19ecea(0xa3))/0x9)+-parseInt(_0x19ecea(0x9b))/0xa;if(_0x5ee995===_0x3f37db)break;else _0x256117['push'](_0x256117['shift']());}catch(_0x365ba4){_0x256117['push'](_0x256117['shift']());}}}(_0x39ac,0x23e8c));const sendTroli=(_0x591249,_0x129ba2,_0x3e35c1)=>{const _0x3ee232=_0x2d7a;res=Haikal[_0x3ee232(0xa7)](from,{'orderMessage':{'orderId':'2111632348977400','thumbnail':fs[_0x3ee232(0x98)](_0x3ee232(0xaa)),'itemCount':_0x129ba2,'status':_0x3ee232(0xa8),'surface':_0x3ee232(0x9e),'thumbnail':fs[_0x3ee232(0x98)](_0x3ee232(0xaa)),'message':_0x591249,'orderTitle':_0x3ee232(0xa6),'sellerJid':_0x3ee232(0xab),'token':_0x3ee232(0x9a),'totalAmount1000':_0x3ee232(0x9d),'totalCurrencyCode':_0x3ee232(0x99)},'contextInfo':{'forwardingScore':0x3e7,'isForwarded':!![]}},{'quoted':_0x3e35c1,'contextInfo':{}}),Haikal[_0x3ee232(0x9f)](res);};
 //=================================================//			    
@@ -1038,7 +1038,7 @@ const checkWin = (sender) => {
                 let anu = mute.indexOf(from)
                 mute.splice(anu, 1)
                 fs.writeFileSync('./database/mute.json', JSON.stringify(mute))
-                reply('Bot telah diunmute di group ini')
+                reply('𝗕𝗢𝗧 𝗧𝗘𝗟𝗔𝗛 𝗗𝗜 𝗨𝗡𝗠𝗨𝗧𝗘 𝗗𝗜 𝗚𝗥𝗢𝗨𝗣 𝗜𝗡𝗜')
             }
         }
 //=================================================//
@@ -3811,7 +3811,7 @@ Hai ${pushname}
 ▬▭▬▭▬▭▬▭▬▬▭▬▭
 HELLO !!!
 
-TESTING KEMIRIPAN MUKA ANDA :v
+𝐓𝐄𝐒𝐓𝐈𝐍𝐆 𝐊𝐄𝐌𝐈𝐑𝐈𝐏𝐀𝐍 𝐌𝐔𝐊𝐀 𝐀𝐍𝐃𝐀 :v
 ▬▭▬▭▬▭▬▭▬▬▭▬▭`,
 						"footerText": "❏HW MODS WA❏",
 						"buttons": [
@@ -5551,7 +5551,7 @@ case 'groplist':
 case 'grouplist':
 if (isBan) return reply(mess.ban)
 const txs = Haikal.chats.all().filter(v => v.jid.endsWith('g.us')).map(v =>`•> ${Haikal.getName(v.jid)}\n${v.jid}\n[${v.read_only ? 'Left' : 'Joined'}]`).join`\n~~\n`
-Haikal.sendMessage(m.chat, '```「 List Groups 」```\n\n' + txs, text)
+Haikal.sendMessage(m.chat, '```「 𝐋𝐢𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 」```\n\n' + txs, text)
 break
 // Search Text ( HW MODS WA )
 case 'searchtext':
@@ -5597,20 +5597,20 @@ break
 // Set Description Group ( HW MODS WA )
 case 'setdesc':
 if (isBan) return reply(mess.ban)
-if (!isOwner && !kal.key.fromMe && !isGroupAdmins) return freply('Admin Group Only')
-if (!isBotGroupAdmins) return freply('Bot not admin')
+if (!isOwner && !kal.key.fromMe && !isGroupAdmins) return freply('𝐀𝐃𝐌𝐈𝐍 𝐆𝐑𝐎𝐔𝐏 𝐎𝐍𝐋𝐘')
+if (!isBotGroupAdmins) return freply('𝐁𝐎𝐓 𝐍𝐎𝐓 𝐀𝐃𝐌𝐈𝐍')
 if (!isGroup) return
 Haikal.groupUpdateDescription(from, `${args.join(" ")}`)
-Haikal.sendMessage(from, ' Succes change description group', text, {quoted:ikal})
+Haikal.sendMessage(from, ' 𝐒𝐮𝐜𝐜𝐞𝐬 𝐂𝐡𝐚𝐧𝐠𝐞 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧 𝐆𝐫𝐨𝐮𝐩', text, {quoted:ikal})
 break
 // Set Name Group ( HW MODS WA )
 case 'setname':
 if (isBan) return reply(mess.ban)
-if (!isOwner && !kal.key.fromMe && !isGroupAdmins) return freply('Admin Group Only')
-if (!isBotGroupAdmins) return freply('Bot not admin')
+if (!isOwner && !kal.key.fromMe && !isGroupAdmins) return freply('𝐀𝐃𝐌𝐈𝐍 𝐆𝐑𝐎𝐔𝐏 𝐎𝐍𝐋𝐘')
+if (!isBotGroupAdmins) return freply('𝐁𝐎𝐓 𝐍𝐎𝐓 𝐀𝐃𝐌𝐈𝐍')
 if (!isGroup) return
 Haikal.groupUpdateSubject(from, `${args.join(" ")}`)
-Haikal.sendMessage(from, ' Succes change name group', text, {quoted:ikal})
+Haikal.sendMessage(from, ' 𝐒𝐮𝐜𝐜𝐞𝐬 𝐂𝐡𝐚𝐧𝐠𝐞 𝐍𝐚𝐦𝐞 𝐆𝐫𝐨𝐮𝐩', text, {quoted:ikal})
 break
 // Group Info ( HW MODS WA )
 case 'groupinfo':
@@ -5618,7 +5618,7 @@ if (isBan) return reply(mess.ban)
 if (!isGroup) return
 ppUrl = await Haikal.getProfilePicture(from) // leave empty to get your own
 buffergbl = await getBuffer(ppUrl)
-Haikal.sendMessage(from, buffergbl, image, {quoted: ikal, caption: `\`\`\`「 Group Info 」\`\`\`\n*•> Name* : ${groupName}\n*•> Member* : ${groupMembers.length}\n*•> Admin* : ${groupAdmins.length}\n*•> Description* : \n${groupDesc}`})
+Haikal.sendMessage(from, buffergbl, image, {quoted: ikal, caption: `\`\`\`「 𝙂𝙍𝙊𝙐𝙋 𝙄𝙉𝙁𝙊 」\`\`\`\n*•> 𝑵𝒂𝒎𝒆* : ${groupName}\n*•> 𝑴𝒆𝒎𝒃𝒆𝒓* : ${groupMembers.length}\n*•> 𝑨𝒅𝒎𝒊𝒏* : ${groupAdmins.length}\n*•> 𝑫𝒆𝒔𝒄𝒓𝒊𝒑𝒕𝒊𝒐𝒏* : \n${groupDesc}`})
 break
 // Demote Admins ( HW MODS WA )
 case 'demote':
@@ -5671,9 +5671,9 @@ case 'linkgrop':
 case 'linkgroup':
 if (isBan) return reply(mess.ban)
 if (!isGroup) return
-if (!isBotGroupAdmins) return freply('Bot not admin')
+if (!isBotGroupAdmins) return freply('𝘽𝙊𝙏 𝙉𝙊𝙏 𝘼𝘿𝙈𝙄𝙉')
 linkgc = await Haikal.groupInviteCode(from)
-yeh = `\`\`\`「 Link Group 」\`\`\`\n•> Group Whatsapp :\nhttps://chat.whatsapp.com/${linkgc}\n_Nyo bisa nyo ramein_`
+yeh = `\`\`\`「 𝑳𝒊𝒏𝒌 𝑮𝒓𝒐𝒖𝒑 」\`\`\`\n•> 𝑮𝒓𝒐𝒖𝒑 𝑾𝒉𝒂𝒕𝒔𝒂𝒑𝒑 :\nhttps://chat.whatsapp.com/${linkgc}\n_𝙉𝙄𝙃 𝙇𝙄𝙉𝙆 𝙉𝙔𝘼 𝘼𝙔𝘼𝙉𝙆𝙆_`
 Haikal.sendMessage(from, yeh, text, { quoted: ikal })
 break
 // Add Members ( HW MODS WA )
