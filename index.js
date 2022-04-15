@@ -6059,7 +6059,7 @@ freply(' Succes change antilink http')
 } else if (args[0] === "ly") {
 linknye = `${linkly}`
 freply(' Succes change antilink ly')
-} else if (args[0] === "wa") {
+} else if (args[wa] === "wa") {
 linknye = `${linkwa}`
 freply(' Succes change antilink wa')
 } else if (args[0] === "default") {
@@ -6075,13 +6075,13 @@ if (!isGroup) return freply(mess.only.group)
 if (!isGroupAdmins && !kal.key.fromMe && !isOwner) return freply('Admin Group Only')
 if (!isBotGroupAdmins) return freply('Bot not admin')
 if (args.length < 1) return freply('ketik 1 untuk mengaktifkan\nketik 0 untuk menonaktifkan')
-if (args[0] === "1") {
+if (args[1] === "1") {
 if (AntiLink) return freply('Sudah Aktif')
 ntilink.push(from)
 fs.writeFileSync('./database/antilink.json', JSON.stringify(ntilink))
 freply(' Succes menyalakan antilink di group ini')
-Haikal.sendMessage(from, `PERINGATAN!!! jika bukan admin jangan send link di group ini`, text)
-} else if (args[0] === "0") {
+Haikal.sendMessage(from, `𝙋𝙀𝙍𝙄𝙉𝙂𝘼𝙏𝘼𝙉 !!! 𝙅𝙄𝙆𝘼 𝘽𝙐𝙆𝘼𝙉 𝘼𝘿𝙈𝙄𝙉 𝙅𝘼𝙉𝙂𝘼𝙉 𝙎𝙃𝘼𝙍𝙀 𝙇𝙄𝙉𝙆 𝘿𝙄 𝙂𝙍𝙊𝙐𝙋 𝙄𝙉𝙄`, text)
+} else if (args[1] === "0") {
 if (!AntiLink) return freply('Sudah Mati')
 let off = ntilink.indexOf(from)
 ntilink.splice(off, 1)
