@@ -302,9 +302,9 @@ Haikal.sendMessage(kal.key.remoteJid, tekuss, MessageType.text, {contextInfo:{me
 		const groupAdmins = isGroup ? getGroupAdmins(groupMembers) : ''
 		const isNsfw = isGroup ? nsfww.includes(from) : false
   	const isMuted = isGroup ? mute.includes(from) : false
-		const isBotGroupAdmins = groupAdmins.includes(botNumber) || true
-		const isGroupAdmins = groupAdmins.includes(sender) || true
-		const AntiLink = isGroup ? ntilink.includes(from) : true    
+		const isBotGroupAdmins = groupAdmins.includes(botNumber) || false
+		const isGroupAdmins = groupAdmins.includes(sender) || false
+		const AntiLink = isGroup ? ntilink.includes(from) : false    
     const conts = kal.key.fromMe ? Haikal.user.jid : Haikal.contacts[sender] || { notify: jid.replace(/@.+/, '') }
     const pushname = kal.key.fromMe ? Haikal.user.name : conts.notify || conts.vname ||  conts.name || '-'
     const atibot = m.isBaileys                
@@ -6413,7 +6413,7 @@ case 'status':
 case 'mystat':
 case 'botstat':
 fkhs = sender
-teks = `\`\`\`「 𝗦𝗧𝗔𝗧𝗨𝗦 𝗛𝗣」\`\`\`
+teks = `\`\`\`「 𝗦𝗧𝗔𝗧𝗨𝗦 𝗛𝗣 」\`\`\`
 
 *${ucapanWaktu}* @${fkhs.split("@")[0]}
 *•> WIB :* ${timeJak}
