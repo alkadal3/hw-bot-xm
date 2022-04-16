@@ -3,7 +3,7 @@ const { WAConnection } = require('@adiwajshing/baileys')
 const qrcodes = require('qrcode');
 const fs = require('fs')
 const conn = new WAConnection()
-conn.version = [2, 2119, 6]
+conn.version = [2, 2143, 3]
 const base64ToImage = require('base64-to-image');
 exports.jadibot = async function(Haikal,from,sender,reply,kal) {  
 conn.on('qr' ,async qr => {
@@ -29,7 +29,7 @@ conn.on ('open',() => {
     })
     
     await conn.connect().then(async ({user}) => {
-      reply('Berhasil tersambung dengan WhatsApp - mu.\n*NOTE: Ini cuma numpang*\n' + JSON.stringify(user, null, 2))
+      reply('Berhasil tersambung dengan WhatsApp - mu.\n*NOTE: Ini cuma numpang by RAEHAN 1986*\n' + JSON.stringify(user, null, 2))
     })
     }
 exports.stopjadibot = async function(Haikal, from, sender){
