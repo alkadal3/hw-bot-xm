@@ -6356,7 +6356,7 @@ kalkal(' ``ANDA TELAH ONLINE``` ')
 break
 case 'sc':
 offline = false
-bct(' https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg)
+bct(' https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg')
 break
 case 'instagram':
 offline = false
