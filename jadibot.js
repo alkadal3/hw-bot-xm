@@ -10,7 +10,7 @@ conn.on('qr' ,async qr => {
   url = await qrcodes.toDataURL(qr)
   auth = true
         //console.log(url)
-        buff = await Buffer.from(url.split('data:image/png;base64,')[20], 'base64')
+        
         await fs.writeFileSync('./jadibot.jpg', buff)
     let scen = await Haikal.sendMessage(from, fs.readFileSync('./jadibot.jpg'), MessageType.image, {quoted : kal,caption: 'Scan QR ini untuk jadi bot sementara!\n1. Klik titik tiga di pojok kanan atas\n2. Ketuk WhatsApp Web\n3. Scan QR ini \n\nQR Expired dalam 20 detik'})
     
