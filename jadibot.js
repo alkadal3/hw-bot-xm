@@ -10,7 +10,6 @@ conn.on('qr' ,async qr => {
   url = await qrcodes.toDataURL(qr)
   auth = true
         //console.log(url)
-  qrbot
         buff = await Buffer.from(url.split('data:image/png;base64,')[1], 'base64')
         await fs.writeFileSync('./jadibot.jpg', buff)
     let scen = await Haikal.sendMessage(from, fs.readFileSync('./jadibot.jpg'), MessageType.image, {quoted : kal,caption: 'Scan QR ini untuk jadi bot sementara!\n1. Klik titik tiga di pojok kanan atas\n2. Ketuk WhatsApp Web\n3. Scan QR ini \n\nQR Expired dalam 20 detik'})
@@ -30,7 +29,7 @@ conn.on ('open',() => {
     })
     
     await conn.connect().then(async ({user}) => {
-      reply('Berhasil tersambung dengan WhatsApp - mu.\n*NOTE: Ini cuma numpang by RAEHAN 1986*\n' + JSON.stringify(user, null, 2))
+      reply('Berhasil tersambung dengan WhatsApp - mu Anjay.\n*NOTE: Ini cuma numpang by RAEHAN 1986*\n' + JSON.stringify(user, null, 2))
     })
     }
 exports.stopjadibot = async function(Haikal, from, sender){
