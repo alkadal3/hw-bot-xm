@@ -575,7 +575,7 @@ HELLO !!!
 ┣❏🔥➥ FOLLOW INSTAGRAM : raehan1986
 ┣❏🔥➥ 𝐑𝐀𝐄𝐇𝐀𝐍 𝟏𝟗𝟖𝟔
 ┣❏🔥➥  𝗦𝗔𝗩𝗘 𝐑𝐀𝐄𝐇𝐀𝐍
-┣❏🔥➥ 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝘽𝙊𝙏 𝙃𝙒 : https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg"
+┣❏🔥➥ 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝘽𝙊𝙏 𝙃𝙒 : https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg
 ┗━━⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭`,
 "buttonText": "List Menu",
